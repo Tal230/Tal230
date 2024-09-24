@@ -2,9 +2,13 @@
 
 <!--
 **Tal230/Tal230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem vindo ao meu Perfil
 
-Here are some ideas to get you started:
+Estou estudando no alura
+estou me densevolvento na linguagem javascript
+utilizo esse espanco para minhas organizacoes 
 
+Here are some ideas to get you started
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
